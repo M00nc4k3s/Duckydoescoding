@@ -15,13 +15,13 @@
 
 - 💬 Ask me about **block coding**
 
-- 📫 How to reach me **mooncakesandpancakes@gmail.com**
+- 📫 How to reach me **write a comment**
 
 - 📄 Know about my experiences [( COMING SOON )](( COMING SOON ))
 
 - ⚡ Fun fact **i like ducks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
