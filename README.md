@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm DuckyDoesCoding!</h1>
+<h1 align="center">Hi 👋, I'm F3RR3T!</h1>
 <h3 align="center">A passionate frontend developer from Las Vegas</h3>
 
 - 🔭 I’m currently working on **My profile stuff**
 
-- 🌱 I’m currently learning **Coding, React, ETC.**
+- 🌱 I’m currently learning **Coding, React, etc.**
 
-- 👯 I’m looking to collaborate on **( nobody yet )**
+- 👯 I’m looking to collaborate on **Nothing yet.**
 
-- 🤝 I’m looking for help with **a lot of stuff, i'm a beginner**
+- 🤝 I’m looking for help with **Java™,JavaScript™**
 
-- 👨‍💻 All of my projects are available at [( COMING SOON )](( COMING SOON ))
+- 👨‍💻 All of my projects are available at **Google Docs™(if bookwise), GitHub™, and Scrimba™.**
 
-- 📝 I regularly write articles on [( COMING SOON )](( COMING SOON ))
+- 📝 I regularly write articles on Google Docs, if bookwise.
 
-- 💬 Ask me about **block coding**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **write a comment**
 
 - 📄 Know about my experiences [( COMING SOON )](( COMING SOON ))
 
-- ⚡ Fun fact **i like ducks**
+- ⚡ Fun fact **Ferrets come in a variety of colors, including sable, chocolate, cream, cinnamon, silver, and albino. All ferrets are white at birth and begin to turn their adult color at 3 months old.**
 
 <h3 align="left"></h3>
 <p align="left">
