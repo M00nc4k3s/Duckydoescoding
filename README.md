@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm F3RR3T!</h1>
-<h3 align="center">A passionate frontend developer from Las Vegas</h3>
+<h3 align="center">An adventureous frontend developer from Las Vegas</h3>
 
-- 🔭 I’m currently working on **My profile stuff**
+- ⚒️ I’m currently working on **My profile stuff**
 
-- 🌱 I’m currently learning **Coding, React, etc.**
+- 📖 I’m currently learning **Coding, React, etc.**
 
-- 👯 I’m looking to collaborate on **Nothing yet.**
+- 💃🏿💃🏿 I’m looking to collaborate on **Nothing yet.**
 
-- 🤝 I’m looking for help with **Java™,JavaScript™**
+- 💁🏿‍♀️ I’m looking for help with **Java™, JavaScript™**
 
-- 👨‍💻 All of my projects are available at **Google Docs™(if bookwise), GitHub™, and Scrimba™.**
+- 📑 All of my projects are available at **Google Docs™(if bookwise), GitHub™, and Scrimba™.**
 
-- 📝 I regularly write articles on Google Docs, if bookwise.
+- ✍🏾 I regularly write articles on Google Docs, if bookwise.
 
-- 💬 Ask me about **Coding**
+- 🖥️ Ask me about **Coding**
 
-- 📫 How to reach me **write a comment**
+- 📩 How to reach me **write a comment**
 
-- 📄 Know about my experiences [( COMING SOON )](( COMING SOON ))
+- 📄 Know about my experiences **Sorry, this isn't up right now!**
 
-- ⚡ Fun fact **Ferrets come in a variety of colors, including sable, chocolate, cream, cinnamon, silver, and albino. All ferrets are white at birth and begin to turn their adult color at 3 months old.**
+-  🎉 Fun fact **Ferrets come in a variety of colors, including sable, chocolate, cream, cinnamon, silver, and albino. All ferrets are white at birth and begin to turn their adult color at 3 months old.**
 
 <h3 align="left"></h3>
 <p align="left">
